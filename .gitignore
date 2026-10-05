@@ -1,0 +1,17 @@
+.DS_Store
+Thumbs.db
+.env
+.env.*
+!.env.example
+private/
+secrets/
+data/raw/
+data/processed/
+data/linkage/
+data/consent/
+literature/pdfs/
+exports/tmp/
+.codegraph/
+*.tmp
+*.log
+~$*

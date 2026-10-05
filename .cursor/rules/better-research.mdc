@@ -1,0 +1,10 @@
+---
+description: Canonical Better Research agent entrypoint
+alwaysApply: true
+---
+
+Read and follow @AGENTS.md as the canonical repository instruction set.
+
+For substantive research work, also read @GRO.md, @brain.md, @research/project-brief.md, and @research/status.md, then load only the relevant SKILL.md from @.agents/skills/.
+
+Do not duplicate or reinterpret repository rules in this Cursor adapter. If this file conflicts with AGENTS.md, AGENTS.md wins.
